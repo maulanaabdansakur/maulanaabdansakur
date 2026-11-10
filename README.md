@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Maulana Abdan Sakur
 
-<!--
-**maulanaabdansakur/maulanaabdansakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract security researcher and architect from Bandung, Indonesia. I audit web applications and smart contracts, and I build web apps and AI tools. I write practical guides and tools for developers who want to learn security by doing.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual smart-contract security reviews — Solidity, EVM, Foundry
+- Bug-bounty hunter on Immunefi, HackenProof, Cantina, HackerOne, Bugcrowd, Intigriti, YesWeHack
+- Web application security review
+- Next.js / React web apps and AI tools
+
+## Selected projects
+
+- **TokoAI** — AI storefront assistant, PayPal AI Hackathon entry
+- **Transparent Donation Board** — donation board on Solana, MLH Solana Hackathon (DeFi track)
+- **VeriBrief** — AI brief-verification agent, Vultr Agent Rush Hackathon
+
+## Services
+
+- Smart-contract security review — [Fiverr](https://www.fiverr.com/abdansakur/manually-review-your-solidity-smart-contract-for-security-flaws) · [Upwork](https://www.upwork.com/freelancers/~014c8fc49308ee508a)
+- Practical guides & tools — [Gumroad](https://maulanaabdansakur.gumroad.com) · [Payhip](https://payhip.com/maulanaabdansakur)
+
+📫 sakurabdan48@gmail.com
